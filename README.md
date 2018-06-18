@@ -17,8 +17,8 @@ DMRG.x Tutorial
     - Sample Code (See subdirectories)
 
   - Libraries
-    - [PETSc](www.mcs.anl.gov/petsc/)
-    - [SLEPc](www.mcs.anl.gov/petsc/)
+    - [PETSc](http://www.mcs.anl.gov/petsc/)
+    - [SLEPc](http://www.mcs.anl.gov/petsc/)
 
   - Readings/Tutorials:
     - Feiguin, Adrian E. "The Density Matrix Renormalization Group and its time‐dependent variants." AIP Conference Proceedings. Vol. 1419. No. 1. AIP, 2011. [[link]](http://physics.uwyo.edu/~adrian/dmrg_lectures.pdf)
